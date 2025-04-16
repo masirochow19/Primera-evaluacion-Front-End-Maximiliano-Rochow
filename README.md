@@ -54,14 +54,9 @@ Este proyecto es un sitio web diseñado para un restaurante ficticio llamado "El
 
 ## Capturas de Pantalla
 
-### Header
-![Header](imágenes/logo.png)
+### Logo
+![Logo](imágenes/logo.png)
 
-### Carrusel de Comidas
-![Carrusel](imágenes/sandwich1.png)
-
-### Formulario de Contacto
-![Formulario](imágenes/testimonios.png)
 
 ## Autor
 
