@@ -48,7 +48,7 @@ Este proyecto es un sitio web diseñado para un restaurante ficticio llamado "El
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/masirochow19/Primera-evaluacion-Front-End-Maximiliano-Rochow>
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
